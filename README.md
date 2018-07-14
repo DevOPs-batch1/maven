@@ -30,7 +30,7 @@ build, reporting and documentation from a central piece of information.
 If you think you have found a bug, please file in an issue into [Maven Issue Tracker](https://issues.apache.org/jira/browse/MNG)
 
 Documentation
--------------
+----------------------------------------------------------------
 
 More information can be found on [Apache Maven Homepage][maven-home].
 Question related to the usage of the Maven should be posted on
